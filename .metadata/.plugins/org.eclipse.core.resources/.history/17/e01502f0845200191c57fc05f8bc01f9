@@ -1,0 +1,5 @@
+package br.com.etechoracio.sihas.biblioteca.model;
+
+public class Endereco {
+
+}
